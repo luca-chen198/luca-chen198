@@ -1,4 +1,4 @@
-![Mac App Store Image - Hero](https://github.com/user-attachments/assets/382653cf-8283-4fd0-baa4-35b5ffa1cdbd)
+![Mac App Store Image - Hero](https://nodes-web.com)
 <svg width="2880" height="1800" viewBox="0 0 2880 1800" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g clip-path="url(#clip0_1382_127)">
 <rect width="2880" height="1800" fill="#056CC1"/>
