@@ -17,4 +17,3 @@
 <clipPath id="clip0_1382_127">
 <rect width="2880" height="1800" fill="white"/>
 </clipPath>
-<image id="image0_1382_127" width="1894" height="2002" preserveAspectRatio="none" 
